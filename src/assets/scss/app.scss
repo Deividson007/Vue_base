@@ -1,0 +1,11 @@
+@import "bootstrap/scss/bootstrap.scss";
+@import "bootstrap-vue/src/index.scss";
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@coreui/coreui/scss/coreui.scss";
+$simple-line-font-path: "~simple-line-icons/fonts/";
+@import "simple-line-icons/scss/simple-line-icons.scss";
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+
+*{
+    font-family: "Rubik", sans-serif;
+}

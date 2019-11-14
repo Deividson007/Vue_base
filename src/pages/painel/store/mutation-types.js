@@ -1,0 +1,1 @@
+export const SET_ATIVIDADE = "AUTH/SET_ATIVIDADE";
